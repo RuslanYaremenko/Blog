@@ -22,8 +22,10 @@
   },
   "homepage": "https://github.com/RuslanYaremenko/Blog#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "mongoose": "^5.3.7"
+    "mongoose": "^5.3.7",
+    "npm": "^6.4.1"
   },
   "devDependencies": {
     "nodemon": "^1.18.5"
